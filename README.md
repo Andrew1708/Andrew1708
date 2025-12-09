@@ -17,6 +17,7 @@ class DeveloperProfile:
 
     def greet(self):
         return f"Hi, I'm {self.name}! Welcome to my GitHub."
+```
 
 ## 🚀 What I'm Currently Doing
 - Working on my personal website

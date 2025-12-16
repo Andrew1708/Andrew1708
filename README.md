@@ -9,7 +9,7 @@ I love technology, problem-solving, and building projects that make an impact.
 class DeveloperProfile:
     def __init__(self):
         self.name = "André Morgado"
-        self.university = "Technical University of Lisbon"
+        self.university = "University of Lisbon - Instituto Superior Técnico"
         self.degree = "Master's in AI & Cybersecurity"
         self.languages = ["Python", "Java", "C", "C#", "C++", "SQL", "HTML", "JavaScript"]
         self.tools = ["Git", "Linux", "Pandas", "Scikit-learn", "SciPy"]
